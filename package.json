@@ -18,6 +18,7 @@
   "repository": "https://github.com/dangvanduc90/prismix",
   "private": false,
   "scripts": {
+    "prepack": "tsc -b",
     "dev": "tsc-watch",
     "build": "tsc"
   },
